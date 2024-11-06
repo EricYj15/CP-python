@@ -1,0 +1,5 @@
+jose - Nota Mínima: 4, Nota Máxima: 9
+pedro - Nota Mínima: 3, Nota Máxima: 9
+suzana - Nota Mínima: 3, Nota Máxima: 10
+gisela - Nota Mínima: 5, Nota Máxima: 10
+joao - Nota Mínima: 5, Nota Máxima: 9
