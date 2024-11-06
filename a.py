@@ -50,3 +50,29 @@
 # print("Conteúdo do arquivo CSV:")
 # for linha in dados:
 #     print(linha)
+
+
+
+# import pickle
+# try:
+#     cadastro = pickle.load(open("cadastro.bin", "rb"))
+#     menuPrincipal(cadastro)
+#     print("\nSalvando cadastro...")
+#     pickle.dump(cadastro,open("cadastro.bin", "wb"))
+# except FileNotFoundError:
+#     print("Criando cadastro...")
+#     cadastro = []
+#     menuPrincipal(cadastro)
+#     pickle.dump(cadastro,open("cadastro.bin", "wb"))
+# except IOError:
+#     print("Problemas no arquivo de cadastro.")
+
+
+# import pickle
+# try:
+#     arquivo = open("teste.bin", "rb")
+#     l = pickle.load(arquivo)
+#     print(l)
+#     arquivo.close()
+# except:
+#     print("Problemas com o arquivo.")
