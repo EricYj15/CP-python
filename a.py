@@ -76,3 +76,17 @@
 #     arquivo.close()
 # except:
 #     print("Problemas com o arquivo.")
+
+
+
+
+# arquivo = open('troca.txt', 'r')
+# conteudo = arquivo.read()
+# arquivo.close()
+
+# conteudo_modificado = conteudo.replace('a', 'A')
+
+# arquivo = open('troca.txt', 'w')
+# arquivo.write(conteudo_modificado)
+# arquivo.close()
+# print("Texto alterado com sucesso!")
